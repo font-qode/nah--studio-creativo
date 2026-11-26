@@ -1,0 +1,23 @@
+.trabajos {
+    display: flex;
+    flex-direction: column;
+    padding: 50px clamp(16px, 4vw, 50px);
+    min-height: 100vh;
+    gap: 25px;
+    background-color: var(--color-principal);
+    color: var(--color-blanco);
+}
+
+.titulo-trabajos {
+    font-family: var(--fuente-titulos);
+}
+
+.titulo-2-trabajos {
+    font-size: 75px;
+    margin-top: -20px;
+    color: var(--color-blanco);
+}
+
+.subtitulo-trabajos {
+    color: var(--color-blanco);
+}

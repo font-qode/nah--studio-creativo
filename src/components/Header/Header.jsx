@@ -8,25 +8,25 @@ function Header() {
             </div>
             <div className="secciones-contenedor">
                 <div className="secciones">
-                    <a href="">Inicio</a>
+                    <a className='enlaces-secciones' href="">Inicio</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Sobre mi</a>
+                    <a className='enlaces-secciones' href="">Sobre mi</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Trabajos</a>
+                    <a className='enlaces-secciones' href="">Trabajos</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Campañas</a>
+                    <a className='enlaces-secciones' href="">Campañas</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Community</a>
+                    <a className='enlaces-secciones' href="">Community</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Educación</a>
+                    <a className='enlaces-secciones' href="">Educación</a>
                 </div>
                 <div className="secciones">
-                    <a href="">Contacto</a>
+                    <a className='enlaces-secciones' href="">Contacto</a>
                 </div>
             </div>
         </section>

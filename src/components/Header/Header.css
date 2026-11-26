@@ -2,9 +2,11 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding: 5px 20px;
+    padding: 5px 30px;
     background-color: #A21216;
-    height: 50px;
+    height: 65px;
+    position: absolute;
+    width: 100%;
 }
 
 .logo-contenedor {
@@ -21,10 +23,13 @@
 .secciones-contenedor {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    gap: 40px;
     align-items: center;
 }
 
-.secciones {
-    display: flex;
+.enlaces-secciones {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: var(--fuente-titulos);
 }
